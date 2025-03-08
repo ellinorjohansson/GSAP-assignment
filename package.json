@@ -1,0 +1,22 @@
+{
+  "name": "fed24d-grafiska-verktyg-individuell-ellinorjohansson",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "globals": "^16.0.0",
+    "prettier": "3.5.3",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.7"
+  }
+}
