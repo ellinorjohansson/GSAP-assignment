@@ -9,22 +9,23 @@ const tl = gsap.timeline({
 
 tl.to("#button", {
   y: 5, 
-  duration: 0.1
+  duration: 0.2
 })
 .to("#button", {
   y: 0, 
-  duration: 0.1
+  duration: 0.2
 })
 
-.to({}, { duration: 1 })
+.to({}, { duration: 1 }) 
+
 .to("#flash", {
   opacity: 1, 
-  duration: 0.02
-})
+  duration: 0.00001
+}) 
 .to("#flash", {
   opacity: 0, 
-  duration: 0.05
-}, "+=0.1") 
+  duration: 0.00001
+}, "+=0.01") 
 
 .to("#image", {
   x: 150,
