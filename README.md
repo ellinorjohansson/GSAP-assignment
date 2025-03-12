@@ -1,5 +1,5 @@
 # Grafiska verktyg
-[Länk till live versionen](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-mandarinfiskarna/)
+[Länk till live versionen](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-ellinorjohansson/)
 
 ## Innehåll
 
