@@ -1,4 +1,12 @@
 # Grafiska verktyg
+[Länk till live versionen](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-mandarinfiskarna/)
+
+## Innehåll
+
+- [Ai genererad bild](#ai-genererad-bild)
+- [Vårens blombukett](#vårens-blombukett)
+- [Tanke med bilden](#tanke-med-bilden)
+- [GIF](#gif)
 
 ## Ai genererad bild
 - **Genererad från:** [Microsoft Designer](https://designer.microsoft.com/)
