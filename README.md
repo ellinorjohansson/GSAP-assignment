@@ -1,34 +1,32 @@
-# Grafiska verktyg
-Tanken med detta projekt är att lära sig användningen av path när det kommer till att animera SVG samt att ta fram en AI bild utifrån ett syfte. 
+# Graphic Tools
+The purpose of this project is to learn how to use paths when animating SVGs and to generate an AI image based on a specific purpose.
 
-[Länk till live versionen](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-ellinorjohansson/)
+## 📑 Table of contents
 
-## 📑 Innehåll
-
-- [Ai genererad bild](#ai-genererad-bild)
-- [Vårens blombukett](#vårens-blombukett)
-- [Tanke med bilden](#tanke-med-bilden)
+- [Ai generated image](#ai-generated-image)
+- [Spring bouquet](#spring-bouquet)
+- [Thought behind the image](#thought-behind-the-image)
 - [GIF](#gif)
 
-## Ai genererad bild
-- **Genererad från:** [Microsoft Designer](https://designer.microsoft.com/)
+## AI generated image
+- **Generated using:** [Microsoft Designer](https://designer.microsoft.com/)
 
-### 💐 Vårens blombukett
-![Bild](/assets/blombukett.jpeg)
+### Spring bouquet
+![image](/assets/blombukett.jpeg)
 
-### 🗨️ Tanke med bilden:
-Denna AI-genererade bild är skapad för att fungera som ett produktkort för en digital blomaffär. Bilden visar en vårig blombukett i en vas mot en vit bakgrund, vilket ger ett rent och tilltalande intryck. Tanken är främst att denna bild ska användas som produktbild på deras websida men kan även inkluderas i andra användningsområden.
+### Thought behind the image:
+This AI-generated image was created to serve as a product card for a digital flower shop. The image showcases a spring bouquet in a vase against a white background, providing a clean and appealing look. The main purpose of this image is to be used as a product photo on the website, but it can also be utilized in other contexts.
 
-**Exempel på användningsområden för bilden:**
+**Examples of potential uses for the image:**
 
-- Produktbild på webbshoppen.
-- Marknadsföringsmaterial för sociala medier.
-- Kampanjer för att visa nya vårblommor i sortimentet.
+- Product image for the online shop.
+- Marketing material for social media.
+- Campaigns showcasing new spring flowers in the collection.
 
-**Beskrivning som användes vid generering:**
-"Vårig blombukett med vit bakgrund som ska fungera som produktkort till en digital blomaffär. Den ska kännas verklig och ge ett intryck av glädje. Buketten ska stå i en vas där hela buketten syns i bild."
+**Description used during generation:**
+"Spring bouquet with a white background designed as a product card for a digital flower shop. It should feel realistic and convey a sense of joy. The bouquet should be placed in a vase, with the entire bouquet visible in the image."
 
 ## Gif
-- Skapad med hjälp av GSAP.
+- Created using GSAP.
   
-![Video av animeringen](/assets/ellinor_johansson_grafiska_verktyg.gif)
+![Animation video](/assets/ellinor_johansson_grafiska_verktyg.gif)
